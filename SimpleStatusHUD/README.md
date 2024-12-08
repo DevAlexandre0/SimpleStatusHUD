@@ -1,7 +1,7 @@
 # esx_statushud
 
 ### Images
-![alt text](https://imgur.com/a/2bKMZWK)
+https://imgur.com/a/2bKMZWK
 
 ### Requirements
 * ESX Framework
