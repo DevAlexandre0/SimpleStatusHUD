@@ -1,12 +1,8 @@
 fx_version 'adamant'
 games { 'gta5' };
 
-name 'esx_statushud'
+name 'StatusHUD'
 description ''
-
-contributor {
-    'Chezza'
-}
 
 ui_page 'html/ui.html'
 
